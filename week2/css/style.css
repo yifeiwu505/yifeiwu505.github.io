@@ -128,7 +128,7 @@ video {
 	width: 100%;
 	height: 100%;
 	display: inline-block;
-	background: rgb(148, 187, 233);
+	background: rgb(144,238,144);
 	top:0px;
 	z-index: -10;
 }
