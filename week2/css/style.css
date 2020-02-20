@@ -102,7 +102,7 @@ video {
 	background-image: url('../media/pButton.png');
 }
 .controls button[data-state="pause"] {
-	background-image: url('../media/buttons-pause.png');
+	background-image: url('../media/pause.png');
 }
 .controls button[data-state="stop"] {
 	background-image: url('../media/sbutton_5-512.png');
