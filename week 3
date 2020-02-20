@@ -5,16 +5,16 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
-		<div>
-      <div>Lay's</div>
-      <div>Wavy</div>
-      <div>Hickory BBQ</div>
-    <div>
+		<div id="container">
+      <div id="title>Lay's</div>
+      <div id="wavy">Wavy</div>
+      <div id="hickory_bbq>Hickory BBQ</div>
+    <div id="net_vt">
       NET WT
         <br>
         1 1/2 OZ (42.5g)
     </div>
-    <div>
+    <div id="calories">
       230<br>
       CALORIES<br>
       PER PACK
