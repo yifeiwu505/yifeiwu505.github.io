@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>week 3</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<div>
+      <div>Lay's</div>
+      <div>Wavy</div>
+      <div>Hickory BBQ</div>
+    <div>
+      NET WT
+        <br>
+        1 1/2 OZ (42.5g)
+    </div>
+    <div>
+      230<br>
+      CALORIES<br>
+      PER PACK
+     </div>
+		</div>
+	</body>
+</html>
