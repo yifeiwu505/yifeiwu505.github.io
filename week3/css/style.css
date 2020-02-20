@@ -1,6 +1,6 @@
 #package{
 	width: 300px;
-	height: 650px;
+	height: 600px;
 	background-color: red;
 	/* horizontal + vertical center align - parent div */
 	position: relative;
@@ -9,9 +9,9 @@
 
 #name{
 	/* horizontal + vertical center align - child div */
-	margin: 0;
+	margin: 5;
 	position: absolute;
-	top: 50%;
+	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	/*//////*/
@@ -25,8 +25,8 @@
 }
 
 #subtitle{
-	position: absolute;
-	top: 34%;
+	position: center;
+	top: 40%;
 	left: 40%;
 	font-family: sans-serif;
 	font-style: italic;
