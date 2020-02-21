@@ -8,7 +8,7 @@
 	transition: -webkit-text-stroke-color 2s, color 2s;
 }
 .title:hover{
-	color:transparent;
+	color:lightgreen;
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: black;
 }
@@ -19,22 +19,22 @@
 	list-style-type: none;
   	margin: 0;
   	padding: 0;
-  	font-family: 'Bad Script', cursive;
+  	font-family: 'Shadows Into Light', cursive;
   	font-size: 80px;
 }
 .work_list{
 	list-style-type: none;
   	margin: 0;
   	padding: 0;
-  	font-family: 'Bad Script', cursive;
+  	font-family: 'Shadows Into Light', cursive;
   	font-size: 28px;
 }
 #menu_home:hover{
-	color:skyblue;
+	color:purple;
 }
 #menu_about:hover{
-	color:skyblue;
+	color:pink;
 }
 #menu_works:hover{
-	color:skyblue;
+	color:grey;
 }
