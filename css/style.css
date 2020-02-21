@@ -1,4 +1,4 @@
-body {background-color: #32CD32;}
+body {background-color: #DAF7A6;}
 .title{
 	position: absolute;
 	top: 50%;
@@ -37,5 +37,5 @@ body {background-color: #32CD32;}
 	color:pink;
 }
 #menu_works:hover{
-	color:grey;
+	color:skyblue;
 }
