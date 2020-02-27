@@ -1,7 +1,7 @@
 body {
  background-image: url("../img/karaa.JPG");
  background-color: #DAF7A6;
- background-size: cover;
+ background-size:cover;
 }
 .title{
 	position: absolute;
@@ -45,4 +45,7 @@ body {
 }
 a:link {
   color: red;
+}
+a:visited {
+  color: lilac;
 }
