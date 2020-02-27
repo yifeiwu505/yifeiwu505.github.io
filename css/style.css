@@ -42,3 +42,6 @@ body {
 #menu_works:hover{
 	color:skyblue;
 }
+a:link {
+  color: red;
+}
