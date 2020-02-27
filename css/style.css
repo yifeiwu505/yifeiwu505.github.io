@@ -1,7 +1,7 @@
 body {
  background-image: url("../img/karaa.JPG");
  background-color: #DAF7A6;
- background-size:cover;
+ background-size:auto;
 }
 .title{
 	position: absolute;
