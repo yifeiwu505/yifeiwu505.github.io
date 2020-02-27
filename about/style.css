@@ -1,0 +1,25 @@
+body {
+  background-color: #D0E6A5;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: #7EA00E;
+}
+a:active {
+  color: #CCABD8;
+}
+p {
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  font-size: 20px;
+  text-align: center;
+}
