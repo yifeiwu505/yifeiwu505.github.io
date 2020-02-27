@@ -1,4 +1,8 @@
 body {background-color: #DAF7A6;}
+body {
+ background-image: url("img/karaa.JPG");
+ background-color: #DAF7A6;
+}
 .title{
 	position: absolute;
 	top: 50%;
