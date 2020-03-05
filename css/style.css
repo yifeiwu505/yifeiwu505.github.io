@@ -9,7 +9,7 @@ body {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	font-family: 'Indie Flower', sans-serif;
-	font-size: 80px;
+	font-size: 120px;
 	transition: -webkit-text-stroke-color 2s, color 2s;
 }
 .title:hover{
@@ -33,6 +33,11 @@ body {
   	padding: 0;
   	font-family: 'Shadows Into Light', cursive;
   	font-size: 28px;
+}
+@media only screen and (max-width: 720px) {
+  .title {
+    font-size: 80px;
+  }
 }
 #menu_home:hover{
 	color:purple;
