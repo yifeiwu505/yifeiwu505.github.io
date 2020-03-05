@@ -44,6 +44,17 @@ body{
 	top:20%;
 	left: 35%;
 }
+.hidden3{
+	display:none;
+	width: 20%;
+	height:40%;
+	position: fixed;
+	top:70%;
+	right: 30%;
+	font-family:'Bad Script', cursive;
+	margin: 0px auto;
+	z-index: 10;
+}
 .jelly_img{
 	height: 100%;
 }
@@ -55,6 +66,11 @@ body{
 }
 @media only screen and (min-width: 600px) {
   .hidden2 {
+    display: inherit;
+  }
+}
+@media only screen and (min-width: 200px) {
+  .hidden3 {
     display: inherit;
   }
 }
